@@ -1,0 +1,703 @@
+{
+    "all": [{
+            "id": "1",
+            "tags": ["all", "recruiting"],
+            "eventStartTime": "2020/08/20 14:30",
+            "eventEndTime": "2020/08/20 15:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": true,
+            "details": {
+                "title": "Virtual Hiring Event for Women",
+                "thumbnailGist": "",
+                "deadline": "2020/08/01 00:00",
+                "slug": {
+                    "altText": "Virtual Hiring Event for women",
+                    "link": "https://www.masked.com/event/jgsy787",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Paul Din",
+                    "title": "Director of HR @ Zoop"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/08/01 09:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            },
+            "isFeatured": true
+        },
+        {
+            "id": "2",
+            "tags": ["all", "meetup"],
+            "eventStartTime": "2020/09/11 14:30",
+            "eventEndTime": "2020/09/11 15:30",
+            "eventLocation": {
+                "isOnline": false,
+                "location": "Vancouver, Canada"
+            },
+            "isPremium": false,
+            "details": {
+                "title": "2020, Graduate Hiring",
+                "thumbnailGist": "",
+                "deadline": "2020/08/31 00:00",
+                "slug": {
+                    "altText": "2020, Graduate Hiring",
+                    "link": "https://www.masked.com/event/uh187xj",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Asadh Sheriff",
+                    "title": "Technology Recuriter @ D.E.Shaw"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        },
+        {
+            "id": "3",
+            "tags": ["all", "recruiting"],
+            "eventStartTime": "2020/09/17 09:30",
+            "eventEndTime": "2020/09/18 17:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": false,
+            "details": {
+                "title": "Virtual Hiring Event for 2021, Graduates",
+                "thumbnailGist": "",
+                "deadline": "2020/09/16 00:00",
+                "slug": {
+                    "altText": "Virtual Hiring Event for 2021, Graduates",
+                    "link": "https://www.masked.com/event/jhg2qu1",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Kevin Rodrick",
+                    "title": "Marketing Head @ Google"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        },
+        {
+            "id": "4",
+            "tags": ["all", "webinar"],
+            "eventStartTime": "2020/09/21 12:30",
+            "eventEndTime": "2020/09/21 14:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": true,
+            "details": {
+                "title": "Women changing the world, Webinar",
+                "thumbnailGist": "",
+                "deadline": "NA",
+                "slug": {
+                    "altText": "Women changing the world, Webinar",
+                    "link": "https://www.masked.com/event/lki29ial",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Kamala Harris",
+                    "title": "US Senate, Democrats"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        },
+        {
+            "id": "5",
+            "tags": ["all", "meetup"],
+            "eventStartTime": "2020/10/20 14:30",
+            "eventEndTime": "2020/10/20 15:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": false,
+            "details": {
+                "title": "How to find a best candidate?",
+                "thumbnailGist": "",
+                "deadline": "2020/08/01 00:00",
+                "slug": {
+                    "altText": "How to find a best candidate?",
+                    "link": "https://www.masked.com/event/jh2iuz1",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Rodger Fernandez",
+                    "title": "Founder & CTO & Zaprun"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/10 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        },
+        {
+            "id": "6",
+            "tags": ["all", "meetup"],
+            "eventStartTime": "2020/08/20 14:30",
+            "eventEndTime": "2020/08/20 15:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": false,
+            "details": {
+                "title": "Guidelines to crack interview",
+                "thumbnailGist": "",
+                "deadline": "2020/08/01 00:00",
+                "slug": {
+                    "altText": "Guidelines to crack interview",
+                    "link": "https://www.masked.com/event/1fsw7y8",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Lee D.",
+                    "title": "Software Engineer 2 @ Walmart Labs"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        },
+        {
+            "id": "7",
+            "tags": ["all", "maskedathon"],
+            "eventStartTime": "2020/10/28 09:30",
+            "eventEndTime": "2020/10/29 17:30",
+            "eventLocation": {
+                "isOnline": false,
+                "location": "Vancouver, Canada"
+            },
+            "isPremium": false,
+            "details": {
+                "title": "Spring Hackathon for 2 days!",
+                "thumbnailGist": "",
+                "deadline": "2020/10/01 6:30",
+                "slug": {
+                    "altText": "Spring Hackathon for 2 days!",
+                    "link": "https://www.masked.com/event/876we9",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Bryan Raj",
+                    "title": "Engineering Manager @Google"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/24 14:23",
+            "analytics": {
+                "appliedCount": 121,
+                "viewCount": 24
+            }
+        }, {
+            "id": "8",
+            "tags": ["all", "leap"],
+            "eventStartTime": "2020/11/20 11:30",
+            "eventEndTime": "2020/11/20 15:30",
+            "eventLocation": {
+                "isOnline": false,
+                "location": "1056, Queen Street, Toronto"
+            },
+            "isPremium": true,
+            "details": {
+                "title": "Career guidance Leap counselling",
+                "thumbnailGist": "",
+                "deadline": "2020/11/25 00:00",
+                "slug": {
+                    "altText": "Career guidance Leap counselling",
+                    "link": "https://www.masked.com/event/213hsd",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Robet Langdon",
+                    "title": "Human Resource Head @ ZAAM"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/10/01 09:53",
+            "analytics": {
+                "appliedCount": 116,
+                "viewCount": 87
+            },
+            "isFeatured": true
+        }, {
+            "id": "9",
+            "tags": ["all", "leap"],
+            "eventStartTime": "2020/11/10 09:30",
+            "eventEndTime": "2020/11/11 16:30",
+            "eventLocation": {
+                "isOnline": false,
+                "location": "2012, Victoria Street, Toronto"
+            },
+            "isPremium": false,
+            "details": {
+                "title": "What Talent Acquisition is?",
+                "thumbnailGist": "",
+                "deadline": "2020/11/25 00:00",
+                "slug": {
+                    "altText": "What Talent Acquisition is?",
+                    "link": "https://www.masked.com/event/12423h",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Henry Ford",
+                    "title": "Business Administration Head @ Lotto"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/10/01 19:53",
+            "analytics": {
+                "appliedCount": 16,
+                "viewCount": 190
+            },
+            "isFeatured": false
+        }
+    ],
+    "leap": [{
+        "id": "8",
+        "tags": ["all", "leap"],
+        "eventStartTime": "2020/11/20 11:30",
+        "eventEndTime": "2020/11/20 15:30",
+        "eventLocation": {
+            "isOnline": false,
+            "location": "1056, Queen Street, Toronto"
+        },
+        "isPremium": true,
+        "details": {
+            "title": "Career guidance Leap counselling",
+            "thumbnailGist": "",
+            "deadline": "2020/11/25 00:00",
+            "slug": {
+                "altText": "Career guidance Leap counselling",
+                "link": "https://www.masked.com/event/213hsd",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Robet Langdon",
+                "title": "Human Resource Head @ ZAAM"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/10/01 09:53",
+        "analytics": {
+            "appliedCount": 116,
+            "viewCount": 87
+        },
+        "isFeatured": true
+    }, {
+        "id": "9",
+        "tags": ["all", "leap"],
+        "eventStartTime": "2020/11/10 09:30",
+        "eventEndTime": "2020/11/11 16:30",
+        "eventLocation": {
+            "isOnline": false,
+            "location": "2012, Victoria Street, Toronto"
+        },
+        "isPremium": false,
+        "details": {
+            "title": "What Talent Acquisition is?",
+            "thumbnailGist": "",
+            "deadline": "2020/11/25 00:00",
+            "slug": {
+                "altText": "What Talent Acquisition is?",
+                "link": "https://www.masked.com/event/12423h",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Henry Ford",
+                "title": "Business Administration Head @ Lotto"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/10/01 19:53",
+        "analytics": {
+            "appliedCount": 16,
+            "viewCount": 190
+        },
+        "isFeatured": false
+    }],
+    "recruiting": [{
+            "id": "1",
+            "tags": ["all", "recruiting"],
+            "eventStartTime": "2020/08/20 14:30",
+            "eventEndTime": "2020/08/20 15:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": true,
+            "details": {
+                "title": "Virtual Hiring Event for Women",
+                "thumbnailGist": "",
+                "deadline": "2020/08/01 00:00",
+                "slug": {
+                    "altText": "Virtual Hiring Event for women",
+                    "link": "https://www.masked.com/event/jgsy787",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Paul Din",
+                    "title": "Director of HR @ Zoop"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/08/01 09:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            },
+            "isFeatured": true
+        },
+        {
+            "id": "3",
+            "tags": ["all", "recruiting"],
+            "eventStartTime": "2020/09/17 09:30",
+            "eventEndTime": "2020/09/18 17:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": false,
+            "details": {
+                "title": "Virtual Hiring Event for 2021, Graduates",
+                "thumbnailGist": "",
+                "deadline": "2020/09/16 00:00",
+                "slug": {
+                    "altText": "Virtual Hiring Event for 2021, Graduates",
+                    "link": "https://www.masked.com/event/jhg2qu1",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Kevin Rodrick",
+                    "title": "Marketing Head @ Google"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        }
+    ],
+    "meetup": [{
+            "id": "2",
+            "tags": ["all", "meetup"],
+            "eventStartTime": "2020/09/11 14:30",
+            "eventEndTime": "2020/09/11 15:30",
+            "eventLocation": {
+                "isOnline": false,
+                "location": "Vancouver, Canada"
+            },
+            "isPremium": false,
+            "details": {
+                "title": "2020, Graduate Hiring",
+                "thumbnailGist": "",
+                "deadline": "2020/08/31 00:00",
+                "slug": {
+                    "altText": "2020, Graduate Hiring",
+                    "link": "https://www.masked.com/event/uh187xj",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Asadh Sheriff",
+                    "title": "Technology Recuriter @ D.E.Shaw"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            },
+            "isFeatured": true
+        },
+        {
+            "id": "5",
+            "tags": ["all", "meetup"],
+            "eventStartTime": "2020/10/20 14:30",
+            "eventEndTime": "2020/10/20 15:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": false,
+            "details": {
+                "title": "How to find a best candidate?",
+                "thumbnailGist": "",
+                "deadline": "2020/08/01 00:00",
+                "slug": {
+                    "altText": "How to find a best candidate?",
+                    "link": "https://www.masked.com/event/jh2iuz1",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Rodger Fernandez",
+                    "title": "Founder & CTO & Zaprun"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/10 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        },
+        {
+            "id": "6",
+            "tags": ["all", "meetup"],
+            "eventStartTime": "2020/08/20 14:30",
+            "eventEndTime": "2020/08/20 15:30",
+            "eventLocation": {
+                "isOnline": true,
+                "location": ""
+            },
+            "isPremium": false,
+            "details": {
+                "title": "Guidelines to crack interview",
+                "thumbnailGist": "",
+                "deadline": "2020/08/01 00:00",
+                "slug": {
+                    "altText": "Guidelines to crack interview",
+                    "link": "https://www.masked.com/event/1fsw7y8",
+                    "thumbnailUrl": "",
+                    "url": ""
+                },
+                "descriptionHtml": "",
+                "speaker": {
+                    "name": "Lee D.",
+                    "title": "Software Engineer 2 @ Walmart Labs"
+                }
+            },
+            "isApplied": false,
+            "created": "2020/09/03 11:53",
+            "analytics": {
+                "appliedCount": 96,
+                "viewCount": 767
+            }
+        }
+    ],
+    "webinar": [{
+        "id": "4",
+        "tags": ["all", "webinar"],
+        "eventStartTime": "2020/09/21 12:30",
+        "eventEndTime": "2020/09/21 14:30",
+        "eventLocation": {
+            "isOnline": true,
+            "location": ""
+        },
+        "isPremium": true,
+        "details": {
+            "title": "Women changing the world, Webinar",
+            "thumbnailGist": "",
+            "deadline": "NA",
+            "slug": {
+                "altText": "Women changing the world, Webinar",
+                "link": "https://www.masked.com/event/lki29ial",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Kamala Harris",
+                "title": "US Senate, Democrats"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/09/03 11:53",
+        "analytics": {
+            "appliedCount": 96,
+            "viewCount": 767
+        },
+        "isFeatured": true
+    }],
+    "maskedathon": [{
+        "id": "7",
+        "tags": ["all", "maskedathon"],
+        "eventStartTime": "2020/10/28 09:30",
+        "eventEndTime": "2020/10/29 17:30",
+        "eventLocation": {
+            "isOnline": false,
+            "location": "Vancouver, Canada"
+        },
+        "isPremium": true,
+        "details": {
+            "title": "Spring Hackathon for 2 days!",
+            "thumbnailGist": "",
+            "deadline": "2020/10/01 6:30",
+            "slug": {
+                "altText": "Spring Hackathon for 2 days!",
+                "link": "https://www.masked.com/event/876we9",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Bryan Raj",
+                "title": "Engineering Manager @Google"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/09/24 14:23",
+        "analytics": {
+            "appliedCount": 121,
+            "viewCount": 24
+        },
+        "isFeatured": true
+    }],
+    "premiumonly": [{
+        "id": "1",
+        "tags": ["all", "recruiting", "premiumonly"],
+        "eventStartTime": "2020/08/20 14:30",
+        "eventEndTime": "2020/08/20 15:30",
+        "eventLocation": {
+            "isOnline": true,
+            "location": ""
+        },
+        "isPremium": true,
+        "details": {
+            "title": "Virtual Hiring Event for Women",
+            "thumbnailGist": "",
+            "deadline": "2020/08/01 00:00",
+            "slug": {
+                "altText": "Virtual Hiring Event for women",
+                "link": "https://www.masked.com/event/jgsy787",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Paul Din",
+                "title": "Director of HR @ Zoop"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/08/01 09:53",
+        "analytics": {
+            "appliedCount": 96,
+            "viewCount": 767
+        },
+        "isFeatured": true
+    }, {
+        "id": "4",
+        "tags": ["all", "webinar", "premiumonly"],
+        "eventStartTime": "2020/09/21 12:30",
+        "eventEndTime": "2020/09/21 14:30",
+        "eventLocation": {
+            "isOnline": true,
+            "location": ""
+        },
+        "isPremium": true,
+        "details": {
+            "title": "Women changing the world, Webinar",
+            "thumbnailGist": "",
+            "deadline": "NA",
+            "slug": {
+                "altText": "Women changing the world, Webinar",
+                "link": "https://www.masked.com/event/lki29ial",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Kamala Harris",
+                "title": "US Senate, Democrats"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/09/03 11:53",
+        "analytics": {
+            "appliedCount": 96,
+            "viewCount": 767
+        }
+    }, {
+        "id": "8",
+        "tags": ["all", "leap", "premiumonly"],
+        "eventStartTime": "2020/11/20 11:30",
+        "eventEndTime": "2020/11/20 15:30",
+        "eventLocation": {
+            "isOnline": false,
+            "location": "1056, Queen Street, Toronto"
+        },
+        "isPremium": true,
+        "details": {
+            "title": "Career guidance Leap counselling",
+            "thumbnailGist": "",
+            "deadline": "2020/11/25 00:00",
+            "slug": {
+                "altText": "Career guidance Leap counselling",
+                "link": "https://www.masked.com/event/213hsd",
+                "thumbnailUrl": "",
+                "url": ""
+            },
+            "descriptionHtml": "",
+            "speaker": {
+                "name": "Robet Langdon",
+                "title": "Human Resource Head @ ZAAM"
+            }
+        },
+        "isApplied": false,
+        "created": "2020/10/01 09:53",
+        "analytics": {
+            "appliedCount": 116,
+            "viewCount": 87
+        }
+    }]
+}
